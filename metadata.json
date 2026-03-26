@@ -1,0 +1,7 @@
+{
+  "name": "Royal Enfield - Pure Motorcycling",
+  "description": "A premium corporate website for Royal Enfield, celebrating heritage, engineering, and the spirit of adventure with a classic yet modern aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
